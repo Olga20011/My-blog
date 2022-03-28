@@ -1,4 +1,4 @@
-# Resources for web developer
+# Resources for web developers
 Web development involves developing websites for the internet or an intranet. Web development rang
 es from developing simple single static page of plain text to complex applications, electronic businesses and social network services. Inorder to enhance productivity when developing websites, many tools are required to make the task light weight.
 The tools are listed below as follows.
