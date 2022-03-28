@@ -20,6 +20,31 @@ Below are the some of the most commonly used text editors.
 - Atom
 - Sublim text
 
+### 2. Frameworks
+The frameworks have conventions for how the code is written and structured, which standardize how the developers write their code.  
+The aim of frameworks is to provide a common structure so that developers don’t have to redo it from scratch and can reuse the code provided. In this way, frameworks allow us to cut out much of the work and save a lot of time.However ,frameworks are categorised into two ie backend frameworks and frontend frameworks.  
+#### a. Backend Frameworks  
+The backend consists of the server, the database, and the code that interacts with them. This also consists of the code that gives dynamic data to the frontend of the site.  
+Backend frameworks are a lot more varied. They are written in a variety of programming languages and have a wide variety of features. Below, like the above list, is a list of some of the frameworks out there for writing application backends.  
+- Spring MVC
+- Django
+- Flask
+- Ruby on Rails
+- Meteor
+- Express
+
+#### b. Frontend Frameworks  
+The frontend of a web application is the part you see and interact with. It consists of the web design and the interaction of the site. In terms of programming languages, this is almost always comprised of the CSS, HTML, and JavaScript of the page.  
+Frontend frameworks are, in most cases, written in JavaScript and are for organizing the functionality, interactivity of your website. Some of these include;
+- Vue
+- Angular JS
+- Angular 2+
+- React
+- Ember
+
+### 3. Image tools
+Image tools are important to developers because developers need to make crucial judgements on editing, compressing,and creating images.
+
 ### 2. Image tools
 Image tools are important to developers because developers need to make crucial judgements on images e.g editing, compressing, and creating images.  
 Tools for image compression include;
@@ -28,6 +53,7 @@ Tools for image compression include;
 - jStrip
 - Caesium Image Compressor
 - PNG Gauntlet   
+
 
 Tools for image creation include;  
 - Canva.
