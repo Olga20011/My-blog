@@ -1,5 +1,6 @@
 # The 7 digital trends to watch for 2022  
-![tech-trends](https://img.etimg.com/thumb/msid-88634316,width-525,height-393,imgsize-65126,resizemode-8,quality-100/tech/technology/tracking-the-buzz-in-tech.jpg)
+![tech-trends](https://img.etimg.com/thumb/msid-88634316,width-525,height-393,imgsize-65126,resizemode-8,quality-100/tech/technology/tracking-the-buzz-in-tech.jpg)  
+
 According to recent McKinsey research, 2021 was a year of transformation: people, corporations and society began to look ahead to influencing their futures rather than just surviving the present. It was the year that hopes for herd immunity, an end to pandemic lockdowns, and a return to normality were dashed – at least for now. And aside from the Great Social Media Resignation, which saw burnt-out Gen Z workers announce that they had quit their jobs via TikTok and Instagram, the rise of non-fungible tokens (“NFTs”), and the introduction of the metaverse, the world’s space-going billionaires were as wealthy and productive in business and technology as ever.
 However, here are the digital trends that will influence life in 2022 … 
 
